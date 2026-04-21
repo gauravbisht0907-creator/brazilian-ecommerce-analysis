@@ -41,3 +41,6 @@ Performed end-to-end analysis on 115K+ Brazilian e-commerce orders dataset to un
 - `brazilianEcommerce.ipynb` → Data cleaning & analysis  
 - `brazilian_analysis.sql` → SQL queries  
 - Power BI Dashboard (images + .pbix file)
+  
+ ## 🔗 Dataset Source
+[Olist Brazilian E-Commerce - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
