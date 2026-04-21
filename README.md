@@ -14,7 +14,7 @@ Performed end-to-end analysis on 115K+ Brazilian e-commerce orders dataset to un
 ![Product and Payment](dashboard-product-payment.png)
 
 ### 🔹 Delivery Analysis
-![Delivery Analysis](dashboard-delivery.png)
+![Delivery Analysis](dashboard-delivery.png.png)
 
 ### 🔹 Customer Satisfaction
 ![Customer Satisfaction](dashboard-customer.png.png)
